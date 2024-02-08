@@ -2,7 +2,7 @@
 a data engineering project for football data pipelines and analytics
 
 <p align="center">
-<img height="150" width="300" src="https://drive.google.com/file/d/14CDJrOmEGlCEIuoklt7AQnvNw4VjqM-Z/view?usp=drive_link"/>
+<img height="150" width="300" src="https://drive.google.com/file/d/14CDJrOmEGlCEIuoklt7AQnvNw4VjqM-Z/view?usp=sharing"/>
 </p>
 
 ## Overview
